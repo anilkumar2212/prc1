@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/mlops/prc1/mlruns/0/48dceec3aecc4ddb8f2237382ad074e5/artifacts
+end_time: 1693381366188
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 48dceec3aecc4ddb8f2237382ad074e5
+run_name: rebellious-ant-481
+run_uuid: 48dceec3aecc4ddb8f2237382ad074e5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1693381363893
+status: 3
+tags: []
+user_id: anilkumar.maddikunta

@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/mlops/prc1/mlruns/0/2727688e5676465ab5b587d263d39876/artifacts
+end_time: 1693386222680
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2727688e5676465ab5b587d263d39876
+run_name: lyrical-smelt-11
+run_uuid: 2727688e5676465ab5b587d263d39876
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1693386218143
+status: 3
+tags: []
+user_id: anilkumar.maddikunta

@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/mlops/prc1/mlruns/0/77297bbac0604497a54c4f31e1a1ac14/artifacts
+end_time: 1693381092579
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 77297bbac0604497a54c4f31e1a1ac14
+run_name: adventurous-dog-476
+run_uuid: 77297bbac0604497a54c4f31e1a1ac14
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1693381090100
+status: 3
+tags: []
+user_id: anilkumar.maddikunta
