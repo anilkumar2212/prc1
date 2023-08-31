@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/anilk/mlops/prc1/mlruns/0/4f01b66d48994f0d87f1ce02d8f0accf/artifacts
+end_time: 1693450584787
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4f01b66d48994f0d87f1ce02d8f0accf
+run_name: classy-wasp-498
+run_uuid: 4f01b66d48994f0d87f1ce02d8f0accf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1693450581956
+status: 3
+tags: []
+user_id: anilk

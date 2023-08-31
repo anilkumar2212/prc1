@@ -83,7 +83,7 @@ export MLFLOW_TRACKING_URI=https://dagshub.com/anilkumar.m.22121996/prc1.mlflow
 
 export MLFLOW_TRACKING_USERNAME=anilkumar.m.22121996
 
-export set
+export MLFLOW_TRACKING_PASSWORD=e4ea57a194234a797c18ff08ef936d22e0703ba0
 
 ```
 
