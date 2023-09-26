@@ -1,0 +1,36 @@
+pipeline {
+
+    agent any
+
+    environment {
+        registry = ""
+    }
+
+    stages {
+        stage('Checkout') {
+            steps {
+                git branch: 'main', url: ''
+            }
+        }
+
+        stage('Building image') {
+            steps{
+                script {
+                dockerImage = docker.build registry
+                }
+            }
+        }
+
+        stage('pushing to ecr') {
+            steps{
+                script {
+                    withCredentials()
+                }
+            }
+
+        }
+    }
+
+
+
+}
