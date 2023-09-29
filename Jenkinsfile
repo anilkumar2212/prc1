@@ -38,7 +38,7 @@ pipeline {
             stage('Docker Run') {
               steps{
                    script {
-                sh 'docker run -d -p 8080:5000 --rm --name mypythonContainer 195051713942.dkr.ecr.ap-northeast-1.amazonaws.com/jenkins:latest'     
+                sh 'docker run -d -p 8096:5000 --rm --name mypythonContainer 195051713942.dkr.ecr.ap-northeast-1.amazonaws.com/jenkins:latest'     
       }
     }
         }
